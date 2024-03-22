@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "and": "^0.0.3",
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.6",
+    "create": "^0.0.2",
+    "css": "^3.0.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.2",
+    "first": "^0.0.3",
+    "js": "^0.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.2.0",
+    "nodemon": "^3.1.0",
+    "react": "^18.2.0",
+    "react-circular-progressbar": "^2.1.0",
+    "tailwind": "^4.0.0",
+    "template": "^0.17.5",
+    "the": "^1.0.2"
+  },
+  "name": "mern-concours",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon api/index.js",
+    "start": "node api/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
